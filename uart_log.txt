@@ -1,0 +1,6 @@
+Left Indicator ON
+Left Indicator OFF
+Switched to RIGHT Indicator
+Right Indicator OFF
+Hazard Mode ON
+Hazard OFF
