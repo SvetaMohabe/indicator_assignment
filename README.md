@@ -17,4 +17,4 @@ This project demonstrates a vehicle indicator logic system using Arduino UNO.
 No hardware was available. Button press was simulated via code (`bool leftPressed = true;`). All output was printed in Serial Monitor.
 
 ## Author
-Sweta Mohabe
+Sveta Mohabe
